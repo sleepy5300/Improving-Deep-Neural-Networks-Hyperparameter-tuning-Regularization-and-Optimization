@@ -1,4 +1,5 @@
 # Improving-Deep-Neural-Networks-Hyperparameter-tuning-Regularization-and-Optimization
+Deep Learning Specialization - Course 2
 
 After 3 weeks, you will: 
 - Understand industry best-practices for building deep learning applications. 
